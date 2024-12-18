@@ -1,4 +1,4 @@
-package tascas108level1ex5;
+package level1ex5;
 
 public class Main {
 

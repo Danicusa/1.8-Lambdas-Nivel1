@@ -1,4 +1,4 @@
-package tascas108level1ex2;
+package level1ex2;
 
 import java.util.List;
 import java.util.stream.Collectors;
